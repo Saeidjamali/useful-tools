@@ -1,0 +1,16 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "name": "Rupak Kharel",
+      "course": "BSc CNT",
+      "email": "r.kharel@mmu.ac.uk"
+    },
+    {
+      "id": 2,
+      "name": "Another one",
+      "course": "BEng",
+      "email": "another@mmu.ac.uk"
+    }
+  ]
+}
